@@ -12,8 +12,8 @@ print ('''\033[93m
     *   \___\___|\__|\_/\_/ |_|_| |_|_| \__,_/__/__/              *
     *                                                             *
     *   powerful tool to get all wifi-passwords in seconds        *
-    *   code from R3dHULK                                         *
-    *   download link : https://github.com/R3DHULK/getwifipass    *
+    *   code from IEHF                                            *
+    *   download link : https://github.com/rjshamim               *
     *                                                             *
     ***************************************************************
   ''')
@@ -139,5 +139,5 @@ print ('''\033[92m
        ''')
 if __name__ == "__main__":
     print_profiles()
-input("Enter To Continue")
+input("Enter To Continue IEHF")
 
