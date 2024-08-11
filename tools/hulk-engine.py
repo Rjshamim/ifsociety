@@ -8,7 +8,7 @@ print('''\033[92m
  | || | | | | |  | |/ / | __|_ _  __ _(_)_ _  ___ 
  | __ | |_| | |__| ' <  | _|| ' \/ _` | | ' \/ -_)
  |_||_|\___/|____|_|\_\ |___|_||_\__, |_|_||_\___|
-    © Sumalya Chatterjee         |___/              
+    © ifshamim                   |___/              
   \033[92m ''')
 try:
 	# to search
@@ -18,4 +18,4 @@ try:
 		print(j)
 except KeyboardInterrupt:
 	print("\033[91m\n [-] Ctrl+C Detected")
-input("\n[-] Enter To Exit")
+input("\n[-] Enter To Exit IEHF")
