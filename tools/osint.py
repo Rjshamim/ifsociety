@@ -243,7 +243,7 @@ try:
 	basecamp = f'https://{username}.basecamphq.com/login'
 
 
-	''' WEBSITE LIST - USE FOR SEARCHING OF USERNAME '''
+	''' WEBSITE LIST - USE FOR SEARCHING OF USERNAME FROM IEHF'''
 	WEBSITES = [
 	instagram, facebook, twitter, youtube, blogger, google_plus, reddit,
 	wordpress, pinterest, github, tumblr, flickr, steam, vimeo, soundcloud, disqus, 
@@ -317,5 +317,5 @@ try:
 		banner()
 		search()
 except KeyboardInterrupt:
-	print("\n\033[91m[-] Exiting...")
-input("[*] Press Enter To Exit")
+	print("\n\033[91m[-] Exiting.IEHF.")
+input("[*] Press Enter To Exit IEHF")
