@@ -18,5 +18,5 @@ try:
 	subprocess.call("ifconfig " + interface + " hw ether " + new_mac, shell=True)
 	subprocess.call("ifconfig " + interface + " up", shell=True)
 except KeyboardInterrupt:
-	print("\n\033[91m [-] Exiting....")
-input("\n [+] Press Enter To Exit")
+	print("\n\033[91m [-] Exiting.IEHF...")
+input("\n [+] Press Enter To Exit IEHF")
