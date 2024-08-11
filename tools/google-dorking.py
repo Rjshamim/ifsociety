@@ -7,7 +7,7 @@ print(r'''
   / __|___  ___  __ _| |___  |   \ ___ _ _| |__
  | (_ / _ \/ _ \/ _` | / -_) | |) / _ \ '_| / /
   \___\___/\___/\__, |_\___| |___/\___/_| |_\_\
-                |___/https://github.com/R3DHULK                                                   
+                |___/https://github.com/rjshamim                                                  
 														
 	''')	
 try:
@@ -63,5 +63,5 @@ try:
 except KeyboardInterrupt:
 	print("\n\033[91m [-] Exiting")
 except ValueError:
-	print("\n\033[91m [-] Please Give Value")
-input("\033[93m [-] Enter To Exit")
+	print("\n\033[91m [-] Please Give Value IEHF")
+input("\033[93m [-] Enter To Exit IEHF")
