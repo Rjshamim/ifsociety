@@ -1,4 +1,4 @@
- #!/usr/bin/env python3
+ #!/usr/bin/env python
 # Disclaimer: This script is for educational purposes only.  Do not use against any network that you don't own or have authorization to test.
 # importing sys
 import sys
@@ -53,7 +53,7 @@ print("""\033[92m
    |    \ \/\/ / | || _| | |  | |) | |) | (_) \__ \   | |/ _ \/ _ \ |__    |
    |     \_/\_/ |___|_| |___| |___/|___/ \___/|___/   |_|\___/\___/____|   |
    |                                                                       |
-   |         github page : https://github.com/R3DHULK                      |
+   |         github page : https://github.com/rjshamim                     |
   [+]---------------------------------------------------------------------[+]
                                                                    """)
 
@@ -193,12 +193,12 @@ input(slowprint("\033[91m  Attack Potential Loaded. Press Enter To Continue  "))
 # We run an infinite loop which you can quit by presses ctrl-c. The deauthentication will stop when we stop the script.
 try:
     while True:
-        print("\033[91m ********* Deauthenticating clients **********")
+        print("\033[91m ********* Deauthenticating clients **IEHF********")
 except KeyboardInterrupt:
     slowprint("\033[93m [-] Attack Stopped ")
     # We run a subprocess.run command where we stop monitoring mode on the network adapter.
     subprocess.run(["airmon-ng", "stop", hacknic + "mon"])
-    slowprint("\033[94m 😊😊😊 Thank you! Exiting now 😊😊😊")
+    slowprint("\033[94m 😊😊😊 Thank you! Exiting now IEHF😊😊😊")
 time.sleep(2)
 
     
