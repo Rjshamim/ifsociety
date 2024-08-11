@@ -26,4 +26,4 @@ try:
 		encrypt()
 except KeyboardInterrupt:
 	slowprint("\n\033[91m [-] Exiting...")
-input(" Enter To Exit")
+input(" Enter To Exit IEHF")
