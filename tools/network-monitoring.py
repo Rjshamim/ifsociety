@@ -1,4 +1,4 @@
-import os
+Fimport os
 import sys
 import socket
 import datetime
@@ -209,5 +209,5 @@ try:
 		# update the bytes_sent and bytes_recv for next iteration
 		bytes_sent, bytes_recv = io_2.bytes_sent, io_2.bytes_recv
 except KeyboardInterrupt:
-	slowprint("\n\n\033[91m [-] Ctrl+C Detected.....Exiting.....")    
+	slowprint("\n\n\033[91m [-] Ctrl+C Detected...IEHF..Exiting.....")    
 time.sleep(2)
