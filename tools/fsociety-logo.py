@@ -47,9 +47,9 @@ XX   MMMMMMMMMy                                                yMMMMMMMMM   XX
 XX   MMMMMMMMMMy.       SOCIETY IS BORN TO BE F**KED         .yMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMy.                                        .yMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMMMy.     GITHUB PAGE:                   .yMMMMMMMMMMMMMM   XX
-XX   MMMMMMMMMMMMMMMMs.   https://github.com/R3DHULK   .sMMMMMMMMMMMMMMMM   XX
-XX   MMMMMMMMMMMMMMMMMMss.                          .ssMMMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMs.   https://github.com/rjshamim  .sMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMMMss.         IEHF             .ssMMMMMMMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMMMMMMMsss.                        .sssMMMMMMMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMMMMMMMMMNoo......................ooNMMMMMMMMMMMMMMMMMMMM   XX
 ''')
-input(" Enter To Close Window")
+input(" Enter To Close Window from IEHF")
