@@ -88,4 +88,4 @@ def query_shodan(query):
 # search for DVWA instances
 res = query_shodan('title:dvwa')
 print(res)
-input("Enter To Exit Window")
+input("Enter To Exit FROM IEHF Window")
