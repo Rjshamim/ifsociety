@@ -26,7 +26,7 @@ try:
  | || / _ \ || | '_| / _` / _` | '  \| | ' \ 
   \_, \___/\_,_|_|   \__,_\__,_|_|_|_|_|_||_|???
   |__/        coded by R3DHULK                                
-  github page : https://github.com/R3DHULK
+  github page : https://github.com/rjshamim
 ''')
 	def slowprint(s):
 		for c in s + '\n' :
@@ -46,15 +46,15 @@ try:
   _ \__|_||_|_/__/_   __ _ __| |_ __ (_)_ _  
  | || / _ \ || | '_| / _` / _` | '  \| | ' \ 
   \_, \___/\_,_|_|   \__,_\__,_|_|_|_|_|_||_|???
-  |__/        coded by R3DHULK                                
-  github page : https://github.com/R3DHULK
+  |__/        coded by ifshamim                                
+  github page : https://github.com/rjshamim
   
 ''')
 	print(" \033[95m YOU MUST WRITE PROTOCOLE HTTPS:// or HTTP:// ex: http://www.ex.com , ex :https://www.ex.com ")
 	print(" \033[95m YOU MUST WRITE / AT THE END OF THE SITE EX: http://www.example.com/ or https://www.example.com/")
 	print("                                                                       ")
 	url = input("\033[94m [+] HULK Wants You To Enter Target Website : ")
-	input("\n\033[91m [*] Attack Strategy is loaded.... Enter To Continue or Ctrl+C to Exit")
+	input("\n\033[91m [*] Attack Strategy is loaded.IEHF... Enter To Continue or Ctrl+C to Exit")
 
 	def slowprint(f):
 		for c in f + '\n' :
@@ -189,10 +189,10 @@ try:
 			openurl = urllib.request.urlopen(curl)
 			print("_____________________________________________________________")
 			print("                                                             ")
-			print("\033[92m :::: ALERTE::: ADMIN PAGE ITS FOUND ::: "+curl)
+			print("\033[92m :::: ALERTE::: ADMIN PAGE ITS FOUND FROM IEHF::: "+curl)
 			print("_____________________________________________________________")
 		except urllib.error.URLError as msg :
-			print ("\033[91m **** SORRY NOT FOUND ::: "+curl)
+			print ("\033[91m **** SORRY NOT FOUND FROM IEHF::: "+curl)
 except KeyboardInterrupt:
 	print("\n [-] Ctrl + C Detected \n")
 try:
@@ -202,8 +202,8 @@ try:
 			sys.stdout.write(c)
 			sys.stdout.flush()
 			time.sleep(10. / 100)
-	slowprint("\n\033[91m [+] Exiting.... Thanks For Using My Tool  \n")
+	slowprint("\n\033[91m [+] Exiting.... Thanks For Using My ifsociety Tool  \n")
 	time.sleep(2)
 	os.system('clear')
 except KeyboardInterrupt:
-	print( "\n\033[90m [-] See You Again ^-^ ")
+	print( "\n\033[90m [-] See You Again from IEHF ^-^ ")
