@@ -31,4 +31,4 @@ myMap = folium.Map(location=[lat,lng],zoom_start=9)
 folium.Marker([lat,lng],popup=location).add_to(myMap)
 
 myMap.save("mylocation.html")
-input(" Enter To Exit")
+input(" Enter To Exit IEHF")
