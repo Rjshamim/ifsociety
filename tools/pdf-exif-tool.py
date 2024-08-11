@@ -9,17 +9,17 @@ print('''
  |  _/ |) | _|  | _| >  < | || _|    | || (_) | (_) | |__ 
  |_| |___/|_|   |___/_/\_\___|_|     |_| \___/ \___/|____|
           c 0 d e   f       0         
-                        r        m    R3DHULK     
+                        r        m    ifshamim    
                         
-           https://github.com/R3DHULK                  
+           https://github.com/rjshamim                 
 ''')  
 print("")
 try:                                                     
-	pdf = pikepdf.Pdf.open(input(" [*] Enter PDF Name : "))
+	pdf = pikepdf.Pdf.open(input(" [*] Enter PDF Name from iehf: "))
 	print("")	
 	docinfo = pdf.docinfo
 	for key, value in docinfo.items():
 		print( key, ":", value)
 		print("")
 except KeyboardInterrupt:
-	print("\n [-] Ctrl+C Detected----\n [-] Exiting....\n")
+	print("\n [-] Ctrl+C Detected-IEHF---\n [-] Exiting..IEHF..\n")
