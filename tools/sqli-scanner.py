@@ -6,8 +6,8 @@ print('''\033[92m
  \__ \ (_) | |__  | |  | |) / -_)  _/ -_) _|  _/ _ \ '_|
  |___/\__\_\____||___| |___/\___|\__\___\__|\__\___/_|  
                                                                       
-	coded by R3DHULK
-	Github Page : https://github.com/R3DHULK
+	coded by ifshamim
+	Github Page : https://github.com/rjshamim
 ''')
 
 def scan(url):
