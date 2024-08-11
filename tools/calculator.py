@@ -6,7 +6,7 @@ def slowprint(s):
         time.sleep(10. / 100)
 try:
 	running = True 
-	print(" Calculator")
+	print(" IEHF Calculator")
 	print("================================")
 	while running:
 		slowprint ("\033[95m 1 = Addition")
@@ -52,7 +52,7 @@ try:
 			print (" The Result Is ",first," : ",second," = ",result)
 			print (" ")
 		elif cmd == 5:
-			slowprint( "\n ***HULK offers you a good bye :D ***")
+			slowprint( "\n ***IEHF offers you a good bye :D ***")
 			running = False
 		else:
 			slowprint(' Are YOU OUT OF YOUR MIND? Huh!')
