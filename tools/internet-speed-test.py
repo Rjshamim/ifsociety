@@ -14,7 +14,7 @@ try:
 	''')
 	st = speedtest.Speedtest()
 
-	option = int(input(''' [*] What speed do you want to test:
+	option = int(input(''' [*] What speed do you want to test FROM IEhF:
 
  1) Download Speed
 
@@ -23,7 +23,7 @@ try:
  3) Ping
 
  [+] Your Choice: '''))
-	print("\n [+] Processing Your Command .... \n\t Please Wait....\n")
+	print("\n [+] IEHF Processing Your Command .... \n\t Please Wait....\n")
 
 	if option == 1:
 
@@ -43,7 +43,7 @@ try:
 
 	else:
 
-		print(" [+] Please enter the correct choice !")
+		print(" [+] Please enter the correct choice from iehf !")
 except KeyboardInterrupt:
-	print("\n [-] CTRL + C Detected....Exiting...\n")
-input("\n Enter To Exit")
+	print("\n [-] CTRL + C IEHF Detected....Exiting...\n")
+input("\n Enter To Exit IEHF")
