@@ -5,7 +5,7 @@ logo = '''
   ||r |||o |||c |||k |||- |||p |||a |||p |||e |||r |||- |||s |||c |||i |||s |||s |||o |||r ||
   ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
   |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
-                coded by r3dhulk;   github page : https://github.com/R3DHULK
+                coded by ifshamim;   github page : https://github.com/rjshamim
 '''  
 print(logo)
 # Print multiline instruction 
@@ -97,4 +97,4 @@ while True:
 # after coming out of the while loop 
 # we print thanks for playing 
 print("\nThanks for playing") 
-print("code from r3dhulk\n")
+print("code from ifshamim\n")
