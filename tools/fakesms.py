@@ -109,7 +109,7 @@ def usage1():
 
     ..........NOTE: Only One Text Message Is Allowed Per Day...........
 
-      ''', 'magenta'))
+      ''', 'IEHF'))
 
 
 def main_check1():
@@ -150,4 +150,4 @@ def op():
 
 
 op()
-input(" ENter To EXit")
+input(" ENter To EXit IEHF")
