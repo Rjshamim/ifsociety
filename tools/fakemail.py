@@ -131,5 +131,5 @@ try:
 		print("\n\033[98m Programme Interrupted")
 		os.system('cls' if os.name == 'nt' else 'clear')
 except KeyboardInterrupt:
-	slowprint("\n\033[91m [-] Exiting....")
+	slowprint("\n\033[91m [-] Exiting..IEHF..")
 time.sleep(2)
