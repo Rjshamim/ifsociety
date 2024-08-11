@@ -5,7 +5,7 @@ chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLOPMNQRSTUVWXYZ@#$*!-_=+&%01234567
 
 allchar=list(chars)
 
-pwd = pyautogui.password(" Enter A Password : ")
+pwd = pyautogui.password(" Enter A Password FROM IEHF: ")
 sample_pwd = " "
 try:
 	while(sample_pwd != pwd):
@@ -14,8 +14,8 @@ try:
 		print("<==========================="+ str(sample_pwd)+ "==================================>")
 	
 		if (sample_pwd == list(pwd)):
-			print(" [+] Your Password IS : "+ "".join(sample_pwd))
+			print(" [+] Your Password IS FROM IEHF : "+ "".join(sample_pwd))
 			break
 except KeyboardInterrupt:
-	print("\n [-] Ctrl+C Detected.....Exiting")
-input(" [+] Enter To Exit")
+	print("\n [-] Ctrl+C Detected..FROM IEHF...Exiting")
+input(" [+] Enter To Exit FROM IEHF")
