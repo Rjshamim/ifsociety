@@ -31,7 +31,7 @@ try:
 	# Booting Screen ("You Can Delete This For Your Term")
 	slowprint("[*] Booting..... ")
 	time.sleep(0.4)
-	slowprint("\033[91m[*] Don't Misuse Your Power")
+	slowprint("\033[91m[*] Warn Don't Misuse Your Power")
 	slowprint("\033[97m[*] Humans Are Most Vulnerable")
 	time.sleep(0.5)
 	slowprint("\033[91m[*] Improve, Don't Prove")
