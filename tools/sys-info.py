@@ -11,7 +11,7 @@ print("""
     *         |__/                           *
     *                                        *
     *  gather system information real quick  * 
-    *         a code from r3dhulk            *
+    *         a code from IEHF               *
     ******************************************
     """)
 
