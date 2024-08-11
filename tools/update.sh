@@ -1,7 +1,7 @@
 clear
 cd ..
-rm -rf fsociety
-git clone https://github.com/R3DHULK/fsociety
+rm -rf ifsociety
+git clone https://github.com/rjshamim/ifsociety
 clean
-cd fsociety
-python fsociety.py
+cd ifsociety
+python ifsociety.py
