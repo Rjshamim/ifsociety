@@ -12,7 +12,7 @@ print('''
  *                                                  *
  *        File Faking Tool                          *
  *       (this support any file format)             *                           
- *       https://github.com/R3DHULK                 *
+ *       https://github.com/rjshamim                *
  *                                                  *
  ****************************************************
 ''')
@@ -60,5 +60,5 @@ try :
 		print(" [!] Unsuccessful to generate ! ")
 except KeyboardInterrupt:
 	print("\n [-] Ctrl + C Detected.........Exiting\n")
-input(" Enter To Exit ")
+input(" Enter To Exit IEHF")
 os.system("clear")
