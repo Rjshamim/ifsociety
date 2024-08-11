@@ -11,7 +11,7 @@ import ipaddress
 # We need to create regular expressions to ensure that the input is correctly formatted.
 import re
 
-# Regular Expression Pattern to extract the number of ports you want to scan. 
+# Regular Expression Pattern to extract the number of ports you wa   nt to scan. 
 # You have to specify <lowest_port_number>-<highest_port_number> (ex 10-100)
 port_range_pattern = re.compile("([0-9]+)-([0-9]+)")
 # Initialising the port numbers, will be using the variables later on.
@@ -30,10 +30,10 @@ while True:
     try:
         ip_address_obj = ipaddress.ip_address(ip_add_entered)
         # The following line will only execute if the ip is valid.
-        print("\033[92m [+] You entered a valid ip address.")
+        print("\033[92m [+] You entered a valid ip address from iehf.")
         break
     except:
-        print("\033[91m [-] You entered an invalid ip address")
+        print("\033[91m [-] You entered an invalid ip address from IEHF")
 
 
 while True:
@@ -64,4 +64,4 @@ for port in range(port_min, port_max + 1):
         print(f"Port {port} is {port_status}")
     except:
         # We cannot scan some ports and this ensures the program doesn't crash when we try to scan them.
-        print(f"Cannot scan port {port}.")
+        print(f"Cannot scan port FROM IEHF {port}.")
