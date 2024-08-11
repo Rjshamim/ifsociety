@@ -34,18 +34,18 @@ def banner():
 	'                                                             ']
 	for i in logo:
 		print(random.choice(banner_colors),i)
-	print(f'     {blue}Developer: {green}S M Shahriar Zarir {white}| {blue}Country: {green}Bangladesh     ')
+	print(f'     {blue}Developer: {green}IF Shamim {white}| {blue}Country: {green}Bangladesh     ')
 	print('')
 
 def update():
 	banner()
-	print(blue,'SMS Bomber is running...'.center(62,' '))
+	print(blue,'SMS Bomber is running..from iehf.'.center(62,' '))
 	print()
 	print(blue,f'Total Sent :  {total_sent}  OTP'.center(60,' '))
 	print(green,f'Success    :  {success}  OTP'.center(60,' '))
 	print(red,f'Failed     :  {failed}  OTP'.center(60,' '))
 	print()
-	print(black,'Press Ctrl + C to Exit...'.center(63,' '))
+	print(black,'Press Ctrl + C to Exit.IEHF..'.center(63,' '))
 
 def hoichoi(num):
 	global total_sent,success,failed
@@ -301,4 +301,4 @@ while True:
 	except Exception as e:
 		print(red,e)
 		exit()
-input(" [-] Enter To Exit")
+input(" [-] Enter To Exit FROM IEHF")
