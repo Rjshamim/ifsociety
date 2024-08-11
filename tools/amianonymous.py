@@ -7,7 +7,7 @@ logo = '''
  | .'|     |  | |  | .'|   | . |   | | |     | . | | |_ -|    |_|  
  |__,|_|_|_|  |_|  |__,|_|_|___|_|_|_  |_|_|_|___|___|___|    |_|  
                                    |___|               
-     code from R3DHULK       github page : https://github.com/R3DHULK
+     code from ifshamim      github page : https://github.com/rjshamim
 '''
 print(logo)
 ANSI_COLOR_SAFE     = '\033[92m'
@@ -44,12 +44,12 @@ def main():
     print('\n')
 
     if safe:
-        print("  [!] It seems, that you're safe!\n")
+        print("  [!] It seems, that you're safe from iehf!\n")
     else:
-        print('  [!] Hmmm... Check the VPN one more time!\n')
+        print('  [!] Hmmm... Check the VPN one more time from iehf!\n')
     
     print('///////////////////////////////////////////////')
     
 if __name__ == '__main__':
     main()
-input(" press close to exit ")
+input(" press close to exit IEHF")
