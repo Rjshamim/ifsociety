@@ -9,7 +9,7 @@ print('''
    * /_/ \_\_|_\_|     |___/_|  \___/ \___/|_| |___|_|\_|\___| *
    *                                                           *
    *          [!] Don't Use For Malicious Purposes             *
-   *          [!] I will not reconsider your jobs              *
+   *          [!] I will not reconsider your jobs from iehf    *
    ************************************************************* 
 	''')
 def get_mac(ip):
@@ -45,8 +45,8 @@ try:
 		time.sleep(2) # Waits for two seconds
 
 except KeyboardInterrupt:
-	print("\n Ctrl + C pressed.............Exiting")
+	print("\n Ctrl + C pressed......IEHF.......Exiting")
 	restore(gateway_ip, target_ip)
 	restore(target_ip, gateway_ip)
-	print(" Restoring session......")
-	print(" [+] Arp Spoof Stopped")
+	print(" Restoring session...iehf...")
+	print(" [+] Arp Spoof Stopped FROM IEHF")
