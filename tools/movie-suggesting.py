@@ -20,6 +20,6 @@ class ChooseMovie(object):
 
 
 if __name__ == '__main__':
-    print("\n", "\033[94m [*] I will suggest you","'", ChooseMovie(),"'","\n")
+    print("\n", "\033[94m [*] I will suggest you from IEHF","'", ChooseMovie(),"'","\n")
 
-input("\033[91 Enter To Exit")
+input("\033[91 Enter To Exit IEHF")
