@@ -7,7 +7,7 @@ try:
 			sys.stdout.write(c)
 			sys.stdout.flush()
 			time.sleep(100 / 1000)
-	slowprint("\033[92m [*] Decrypt Your Message :")
+	slowprint("\033[92m [*] Decrypt Your Message FROM IEHF :")
 	print("=================================")
 	def decrypt():
 		message = input("\n\033[92m [*] Enter Encrypted Message: ")
@@ -19,4 +19,4 @@ try:
 		decrypt()
 except KeyboardInterrupt:
 	slowprint("\n\033[91m [-] Exiting...")
-input(" Enter To Exit")
+input(" Enter To Exit IEHF")
