@@ -16,7 +16,7 @@ logo = '''
      | | |  __/   `--. \/ __/ _` | '_ \| '_ \ / _ \ '__|
     _| |_| |     /\__/ / (_| (_| | | | | | | |  __/ |   
     \___/\_|     \____/ \___\__,_|_| |_|_| |_|\___|_|   
-                      https://github.com/R3DHULK	
+                      https://github.com/rjshamim	
 '''
 print(logo)
 print("wait, redhulk is building the code ...") 
@@ -57,5 +57,5 @@ for worker in range(1, 500):
 queue.join()
 
 print('Time taken:', time.time() - start_time)
-print ("Thank You for using my tool :>")
-input("Enter To Continue")
+print ("Thank You for using my ifsociety tool :>")
+input("Enter To Continue IEHF")
