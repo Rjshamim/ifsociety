@@ -25,7 +25,7 @@ try:
   _ \__|_||_|_/__/_   __ _ __| |_ __ (_)_ _  
  | || / _ \ || | '_| / _` / _` | '  \| | ' \ 
   \_, \___/\_,_|_|   \__,_\__,_|_|_|_|_|_||_|???
-  |__/        coded by R3DHULK                                
+  |__/        coded by ifshamim                               
   github page : https://github.com/rjshamim
 ''')
 	def slowprint(s):
