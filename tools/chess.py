@@ -15,7 +15,7 @@ logo = '''
 \     ||  |  ||     |\    |\    |
  \____||__|__||_____| \___| \___|
       
-      by R3DHULK © Sumalya Chatterjee
+      by ifshamim © Md Shamim
 '''
 
 print(logo)
