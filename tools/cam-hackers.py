@@ -30,7 +30,7 @@ print("""
 ██║     ██╔══██║██║╚██╔╝██║╚════╝██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗╚════██║
 ╚██████╗██║  ██║██║ ╚═╝ ██║      ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║███████║
 \033[1;31m ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-\033[1;31m                                                                        ANGELSECURITYTEAM \033[1;31m\033[1;37m""")
+\033[1;31m                                                                        scammerplaybackbd\033[1;31m\033[1;37m""")
 
 for key, value in countries.items():
     print(f'Code : ({key}) - {value["country"]} / ({value["count"]})  ')
@@ -64,5 +64,5 @@ except:
 finally:
     print("\033[1;37m")
     print('\033[37mSave File :'+country+'.txt')
-    input("[-] Enter To Exit")
+    input("[-] Enter To Exit FROM IEHF")
 
